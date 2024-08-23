@@ -31,3 +31,9 @@ Usage
 1. Enter your symptoms in the provided input fields.
 2. Click on the "Predict" button to get the disease prediction.
 3. Explore the additional information provided, such as disease descriptions, precautions, medications, diet suggestions, and workout tips.
+
+Technologies Used
+- Backend: Flask
+- Frontend: HTML, CSS, Bootstrap
+- Machine Learning: Scikit-learn (Decision Tree Classifier)
+- Data Handling: Pandas, Numpy
