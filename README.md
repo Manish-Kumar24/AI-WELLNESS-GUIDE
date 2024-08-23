@@ -2,13 +2,14 @@
 ![Project Logo](assets/logo.png)
 Overview
 This project is a web application that predicts potential diseases based on the symptoms entered by the user. The app leverages Flask for the backend and a Decision Tree Classifier model for the predictions. It provides users with an intuitive platform to input their symptoms and receive accurate health-related insights instantly.
+
 Features
 - Symptom Input: Users can enter their symptoms via a user-friendly interface.
 - Disease Prediction: A pre-trained Decision Tree Classifier model predicts potential diseases based on the symptoms provided.
 - Comprehensive Information: The app provides descriptions, precautions, medications, dietary advice, and workout tips for the predicted disease.
 - Educational Content: Includes informative blog posts about various health topics.
-Installation
-- Prerequisites
+
+Prerequisites
 - Flask==3.0.3
 - numpy==1.24.3
 - scikit-learn==1.2.2
