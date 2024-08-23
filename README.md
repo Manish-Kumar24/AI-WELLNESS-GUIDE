@@ -13,10 +13,7 @@ Installation
 - numpy==1.24.3
 - scikit-learn==1.2.2
 - pandas==2.2.2
-Usage
-1. Enter your symptoms in the provided input fields.
-2. Click on the "Predict" button to get the disease prediction.
-3. Explore the additional information provided, such as disease descriptions, precautions, medications, diet suggestions, and workout tips.
+
 Setup
 - 1. Clone the repository:
       git clone https://github.com/yourusername/symptom-disease-diagnosis.git
@@ -29,3 +26,8 @@ Setup
 - 4. Run the Flask application:
       flask run
 - 5. Navigate to http://127.0.0.1:5000/ in your web browser to use the application.
+
+Usage
+1. Enter your symptoms in the provided input fields.
+2. Click on the "Predict" button to get the disease prediction.
+3. Explore the additional information provided, such as disease descriptions, precautions, medications, diet suggestions, and workout tips.
