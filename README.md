@@ -17,7 +17,7 @@ Prerequisites
 
 Setup
 - 1. Clone the repository:
-      git clone https://github.com/yourusername/symptom-disease-diagnosis.git
+      git clone https://github.com/Manish-Kumar24/symptom-disease-diagnosis.git
       cd symptom-disease-diagnosis
 - 2. Create a virtual environment:
       python -m venv venv
