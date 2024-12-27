@@ -1,5 +1,5 @@
 # AI-WELLNESS-GUIDE
-![Project Logo](assets/AI Wellness Guide.png)
+![Project Logo](https://github.com/Manish-Kumar24/AI-WELLNESS-GUIDE/blob/main/assets/AI%20Wellness%20Guide.png)
 Overview
 This project is a web application that predicts potential diseases based on the symptoms entered by the user. The app leverages Flask for the backend and a Decision Tree Classifier model for the predictions. It provides users with an intuitive platform to input their symptoms and receive accurate health-related insights instantly.
 
